@@ -12,9 +12,9 @@ $code-color: #bf616a;
 
 // Fonts
 $serif-primary: 'Noto Sans KR', 'Miriam Libre', 'Times New Roman', Times, serif;
-$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
-$monospaced: Menlo, Monaco, monospace;
+$serif-secondary: 'Noto Sans KR', 'Miriam Libre', Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
+$sans-serif: 'Noto Sans KR', 'Miriam Libre', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+$monospaced: 'Noto Sans KR', 'Miriam Libre', Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
